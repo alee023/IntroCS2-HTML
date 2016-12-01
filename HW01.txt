@@ -1,0 +1,16 @@
+Alison Lee
+IntroCS2 pd 8
+HW02 -- Onward! To the land of CS
+2016-02-03
+
+Filesystem Hierary (Directory Tree) for My Machine
+hostname: Blue
+OS: Windows 10
+
+Before I started CS class in Stuyvesant High School, I saw something online about 'Hour of Code' and I, naturally, checked it out. I found it rather unhelpful because all I did was drag parts of code into other parts. Nevertheless it sparked my interest in coding and I later looked and signed up for Codecademy. I started on Javascript (turns out that it wasn't a good language to start at) and was confused by some things but made a significant amount of progress.
+I started on Python on Codecademy but stopped at the beginning of the school year to focus on school. It intrigued me and I made more progress on it than Javascript. I started a little on HTML.
+
+I was really interested and happy that I got into CS class and I could recognize a few similarities between Scheme and Python. Recursive was the most frustrating but it became easier as time progressed. Netlogo was definitely more complicated of a language than Scheme but I was as enthusiastic about CS as I was in the beginning.
+
+Which led me to apply for CS 2 and yeah. 
+

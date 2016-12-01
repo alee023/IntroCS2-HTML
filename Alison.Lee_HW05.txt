@@ -1,0 +1,8 @@
+Alison Lee
+IntroCS2 pd8
+HW05 -- What Can Your Little Friend Do?
+2016-02-16
+
+3a A nice way to check
+   For mistakes in your coding:
+   Read it to the duck 
